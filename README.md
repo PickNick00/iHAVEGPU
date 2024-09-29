@@ -94,7 +94,7 @@
     </header>
     <nav>
         <a href="index.html">หน้าหลัก</a>
-        <a href="about me.html">เกี่ยวกับเรา</a>
+        <a href="[about me.html](https://picknick00.github.io/about-me/)">เกี่ยวกับเรา</a>
         <a href="บริการ.html">บริการ</a>
         <a href="Us Contact.html">ติดต่อเรา</a>
     </nav>
